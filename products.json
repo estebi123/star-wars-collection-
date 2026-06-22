@@ -6,7 +6,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 20,
-  "offer": true,
+  "offer": false,
   "cond": "New in box \u00b7 minor edge & corner wear, light dust on case",
   "photos": [
    "img/001-1.jpg",
@@ -21,7 +21,7 @@
   "year": "2006",
   "cat": "Figures",
   "price": 30,
-  "offer": true,
+  "offer": false,
   "cond": "Sealed tin \u00b7 outer box shows shelf wear",
   "photos": [
    "img/002-1.jpg",
@@ -36,7 +36,7 @@
   "year": "2002",
   "cat": "Vehicles",
   "price": 30,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box creasing & window scuffs",
   "photos": [
    "img/003-1.jpg",
@@ -52,7 +52,7 @@
   "year": "2004",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 old store clearance sticker, box wear",
   "photos": [
    "img/004-1.jpg",
@@ -68,7 +68,7 @@
   "year": "1999",
   "cat": "Games",
   "price": 25,
-  "offer": true,
+  "offer": false,
   "cond": "Appears sealed \u00b7 light shelf wear",
   "photos": [
    "img/005-1.jpg",
@@ -83,7 +83,7 @@
   "year": "2005",
   "cat": "Oddities",
   "price": 40,
-  "offer": true,
+  "offer": false,
   "cond": "New in box \u00b7 chrome finish",
   "photos": [
    "img/006-1.jpg",
@@ -99,7 +99,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 25,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box edge & corner wear, light shelf wear",
   "photos": [
    "img/007-1.jpg",
@@ -114,7 +114,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 18,
-  "offer": true,
+  "offer": false,
   "cond": "New in box \u00b7 minor edge wear & light dust",
   "photos": [
    "img/008-1.jpg",
@@ -129,7 +129,7 @@
   "year": "2003",
   "cat": "Figures",
   "price": 25,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box wear, tape on flaps",
   "photos": [
    "img/009-1.jpg",
@@ -145,7 +145,7 @@
   "year": "2002",
   "cat": "Vehicles",
   "price": 30,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box creasing & window wear",
   "photos": [
    "img/010-1.jpg",
@@ -161,7 +161,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 18,
-  "offer": true,
+  "offer": false,
   "cond": "New in box \u00b7 minor edge wear, light dust",
   "photos": [
    "img/011-1.jpg",
@@ -176,7 +176,7 @@
   "year": "1999",
   "cat": "Vehicles",
   "price": 20,
-  "offer": true,
+  "offer": false,
   "cond": "Carded \u00b7 card edge wear & creasing",
   "photos": [
    "img/012-1.jpg",
@@ -191,7 +191,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 25,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 window & box wear, light dust",
   "photos": [
    "img/013-1.jpg",
@@ -206,7 +206,7 @@
   "year": "2003",
   "cat": "Print",
   "price": 10,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed daily calendar \u00b7 opened, box edge wear",
   "photos": [
    "img/014-1.jpg",
@@ -222,7 +222,7 @@
   "year": "1999",
   "cat": "Oddities",
   "price": 25,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box wear, bubble intact",
   "photos": [
    "img/015-1.jpg",
@@ -237,7 +237,7 @@
   "year": "2005",
   "cat": "Print",
   "price": 6,
-  "offer": true,
+  "offer": false,
   "cond": "Reading copy \u00b7 cover & spine wear",
   "photos": [
    "img/016-1.jpg",
@@ -253,7 +253,7 @@
   "year": "2004",
   "cat": "Figures",
   "price": 18,
-  "offer": true,
+  "offer": false,
   "cond": "Carded in protective case \u00b7 near mint",
   "photos": [
    "img/017-1.jpg",
@@ -268,7 +268,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 15,
-  "offer": true,
+  "offer": false,
   "cond": "Carded \u00b7 card wear, light dust",
   "photos": [
    "img/018-1.jpg",
@@ -283,7 +283,7 @@
   "year": "2005",
   "cat": "Oddities",
   "price": 50,
-  "offer": true,
+  "offer": false,
   "cond": "Factory sealed \u00b7 shrink intact",
   "photos": [
    "img/019-1.jpg",
@@ -298,7 +298,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 22,
-  "offer": true,
+  "offer": false,
   "cond": "Carded \u00b7 card edge wear",
   "photos": [
    "img/020-1.jpg",
@@ -314,7 +314,7 @@
   "cat": "Figures",
   "ep": "III",
   "price": 18,
-  "offer": true,
+  "offer": false,
   "cond": "Carded \u00b7 card edge wear, light dust",
   "photos": [
    "img/021-1.jpg",
@@ -329,7 +329,7 @@
   "cat": "Figures",
   "ep": "Saga",
   "price": 16,
-  "offer": true,
+  "offer": false,
   "cond": "Carded \u00b7 card edge wear, light dust",
   "photos": [
    "img/022-1.jpg",
@@ -344,7 +344,7 @@
   "cat": "Figures",
   "ep": "IV",
   "price": 30,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box wear/creasing, figure sealed",
   "photos": [
    "img/023-1.jpg",
@@ -359,7 +359,7 @@
   "cat": "Print",
   "ep": "Saga",
   "price": 10,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed daily calendar \u00b7 light box wear",
   "photos": [
    "img/024-1.jpg"
@@ -373,7 +373,7 @@
   "cat": "Games",
   "ep": "Saga",
   "price": 15,
-  "offer": true,
+  "offer": false,
   "cond": "Loose cards \u00b7 played, see photo",
   "photos": [
    "img/025-1.jpg"
@@ -387,7 +387,7 @@
   "cat": "Figures",
   "ep": "IV",
   "price": 35,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed tin \u00b7 box wear, figures sealed in tin",
   "photos": [
    "img/026-1.jpg",
@@ -402,7 +402,7 @@
   "cat": "Figures",
   "ep": "III",
   "price": 45,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOSC) \u00b7 light shelf wear",
   "photos": [
    "img/027-1.jpg",
@@ -417,7 +417,7 @@
   "cat": "Vehicles",
   "ep": "V",
   "price": 22,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box wear, window crease",
   "photos": [
    "img/028-1.jpg",
@@ -433,7 +433,7 @@
   "cat": "Vehicles",
   "ep": "II",
   "price": 28,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box wear/creasing",
   "photos": [
    "img/029-1.jpg",
@@ -448,7 +448,7 @@
   "cat": "Figures",
   "ep": "III",
   "price": 28,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed (clamshell) \u00b7 near mint",
   "photos": [
    "img/030-1.jpg",
@@ -463,7 +463,7 @@
   "cat": "Figures",
   "ep": "Saga",
   "price": 20,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box worn/creased, figure sealed",
   "photos": [
    "img/031-1.jpg",
@@ -478,7 +478,7 @@
   "cat": "Vehicles",
   "ep": "II",
   "price": 28,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box wear/creasing",
   "photos": [
    "img/032-1.jpg",
@@ -493,7 +493,7 @@
   "cat": "Figures",
   "ep": "VI",
   "price": 22,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box wear, figures sealed",
   "photos": [
    "img/033-1.jpg",
@@ -508,7 +508,7 @@
   "cat": "Oddities",
   "ep": "III",
   "price": 8,
-  "offer": true,
+  "offer": false,
   "cond": "Used promo crowns \u00b7 light wear/creasing",
   "photos": [
    "img/034-1.jpg"
@@ -522,7 +522,7 @@
   "cat": "Figures",
   "ep": "VI",
   "price": 40,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box wear/creasing, top plastic crack",
   "photos": [
    "img/035-1.jpg",
@@ -537,7 +537,7 @@
   "cat": "Figures",
   "ep": "V",
   "price": 25,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box worn/creased",
   "photos": [
    "img/036-1.jpg",
@@ -552,7 +552,7 @@
   "cat": "Figures",
   "ep": "V",
   "price": 18,
-  "offer": true,
+  "offer": false,
   "cond": "Boxed \u00b7 box wear, case yellowing",
   "photos": [
    "img/037-1.jpg",
@@ -567,7 +567,7 @@
   "cat": "Figures",
   "ep": "V",
   "price": 22,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge & corner wear, bubble intact",
   "photos": [
    "img/038-1.jpg",
@@ -582,7 +582,7 @@
   "cat": "Figures",
   "ep": "VI",
   "price": 20,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear, bubble intact",
   "photos": [
    "img/039-1.jpg",
@@ -597,7 +597,7 @@
   "cat": "Figures",
   "ep": "Saga",
   "price": 15,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge & corner wear, light shelf wear",
   "photos": [
    "img/040-1.jpg",
@@ -612,7 +612,7 @@
   "cat": "Figures",
   "ep": "III",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear, light dust",
   "photos": [
    "img/041-1.jpg",
@@ -627,7 +627,7 @@
   "cat": "Figures",
   "ep": "III",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear, light dust",
   "photos": [
    "img/042-1.jpg",
@@ -640,9 +640,9 @@
   "line": "Star Tours (Disney exclusive)",
   "year": "2002",
   "cat": "Figures",
-  "price": 18,
-  "offer": true,
-  "cond": "Carded \u00b7 card edge wear, bubble intact",
+  "price": 35,
+  "offer": false,
+  "cond": "Carded \u00b7 Disney Star Tours exclusive, card edge wear",
   "photos": [
    "img/043-1.jpg",
    "img/043-2.jpg"
@@ -656,7 +656,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear, light dust",
   "photos": [
    "img/044-1.jpg",
@@ -671,7 +671,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 18,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 light shelf wear",
   "photos": [
    "img/045-1.jpg",
@@ -686,7 +686,7 @@
   "year": "2001",
   "cat": "Figures",
   "price": 16,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/046-1.jpg",
@@ -701,7 +701,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/047-1.jpg",
@@ -716,7 +716,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/048-1.jpg",
@@ -731,7 +731,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 22,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge & corner wear",
   "photos": [
    "img/049-1.jpg",
@@ -746,7 +746,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 38,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge & corner wear",
   "photos": [
    "img/050-1.jpg",
@@ -761,7 +761,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear, light dust",
   "photos": [
    "img/051-1.jpg",
@@ -776,7 +776,7 @@
   "year": "2005",
   "cat": "Oddities",
   "price": 8,
-  "offer": true,
+  "offer": false,
   "cond": "Plush \u00b7 light wear, manufacturer tag attached",
   "photos": [
    "img/052-1.jpg",
@@ -791,7 +791,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 15,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/053-1.jpg",
@@ -806,7 +806,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/054-1.jpg",
@@ -821,7 +821,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/055-1.jpg",
@@ -836,7 +836,7 @@
   "year": "2005",
   "cat": "Oddities",
   "price": 20,
-  "offer": true,
+  "offer": false,
   "cond": "Carded watch \u00b7 front & back shown, clamshell wear, old price sticker",
   "photos": [
    "img/056-1.jpg",
@@ -851,7 +851,7 @@
   "year": "2003",
   "cat": "Figures",
   "price": 18,
-  "offer": true,
+  "offer": false,
   "cond": "Carded 2-pack (MOC) \u00b7 card edge wear",
   "photos": [
    "img/058-1.jpg",
@@ -866,7 +866,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/059-1.jpg",
@@ -881,7 +881,7 @@
   "year": "1999",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 CommTech chip, card edge wear",
   "photos": [
    "img/060-1.jpg",
@@ -896,7 +896,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/061-1.jpg",
@@ -911,7 +911,7 @@
   "year": "2003",
   "cat": "Figures",
   "price": 16,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/062-1.jpg",
@@ -926,7 +926,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/063-1.jpg",
@@ -941,7 +941,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/064-1.jpg",
@@ -956,7 +956,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/065-1.jpg",
@@ -971,7 +971,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 15,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/066-1.jpg",
@@ -986,7 +986,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/067-1.jpg",
@@ -1001,7 +1001,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/068-1.jpg",
@@ -1016,7 +1016,7 @@
   "year": "2001",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/069-1.jpg",
@@ -1031,7 +1031,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/070-1.jpg",
@@ -1046,7 +1046,7 @@
   "year": "2002",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/071-1.jpg",
@@ -1061,7 +1061,7 @@
   "year": "2000s",
   "cat": "Figures",
   "price": 25,
-  "offer": true,
+  "offer": false,
   "cond": "Loose (no packaging) \u00b7 played-with, see photos",
   "photos": [
    "img/072-1.jpg",
@@ -1076,7 +1076,7 @@
   "year": "1999",
   "cat": "Vehicles",
   "price": 25,
-  "offer": true,
+  "offer": false,
   "cond": "Built loose \u00b7 complete as shown, no box",
   "photos": [
    "img/073-1.jpg",
@@ -1092,7 +1092,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/074-1.jpg",
@@ -1107,7 +1107,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/075-1.jpg",
@@ -1122,7 +1122,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/076-1.jpg",
@@ -1137,7 +1137,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/077-1.jpg",
@@ -1152,7 +1152,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/078-1.jpg",
@@ -1167,7 +1167,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 16,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/079-1.jpg",
@@ -1182,7 +1182,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/080-1.jpg",
@@ -1197,7 +1197,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/081-1.jpg",
@@ -1212,7 +1212,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/082-1.jpg",
@@ -1227,7 +1227,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/083-1.jpg",
@@ -1242,7 +1242,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/084-1.jpg",
@@ -1257,7 +1257,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/085-1.jpg",
@@ -1272,7 +1272,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/086-1.jpg",
@@ -1287,7 +1287,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/087-1.jpg",
@@ -1302,7 +1302,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 16,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/088-1.jpg",
@@ -1317,7 +1317,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/089-1.jpg",
@@ -1332,7 +1332,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 blue variant, card edge wear",
   "photos": [
    "img/090-1.jpg",
@@ -1347,7 +1347,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/091-1.jpg",
@@ -1362,7 +1362,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/092-1.jpg",
@@ -1377,7 +1377,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/093-1.jpg",
@@ -1392,7 +1392,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/094-1.jpg",
@@ -1407,7 +1407,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/095-1.jpg",
@@ -1422,7 +1422,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/096-1.jpg",
@@ -1437,7 +1437,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/097-1.jpg",
@@ -1452,7 +1452,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/098-1.jpg",
@@ -1467,7 +1467,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/099-1.jpg",
@@ -1482,7 +1482,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/100-1.jpg",
@@ -1497,7 +1497,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/101-1.jpg",
@@ -1512,7 +1512,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/102-1.jpg",
@@ -1527,7 +1527,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/103-1.jpg",
@@ -1542,7 +1542,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/104-1.jpg",
@@ -1557,7 +1557,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/105-1.jpg",
@@ -1572,7 +1572,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 16,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/106-1.jpg",
@@ -1587,7 +1587,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/107-1.jpg",
@@ -1602,7 +1602,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/108-1.jpg",
@@ -1617,7 +1617,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/109-1.jpg",
@@ -1632,7 +1632,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/110-1.jpg",
@@ -1647,7 +1647,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/111-1.jpg",
@@ -1662,7 +1662,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/112-1.jpg",
@@ -1677,7 +1677,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 red variant, card edge wear",
   "photos": [
    "img/113-1.jpg",
@@ -1692,7 +1692,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/114-1.jpg",
@@ -1707,7 +1707,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 14,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/115-1.jpg",
@@ -1722,7 +1722,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 12,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/116-1.jpg",
@@ -1737,7 +1737,7 @@
   "year": "2005",
   "cat": "Figures",
   "price": 16,
-  "offer": true,
+  "offer": false,
   "cond": "Carded (MOC) \u00b7 card edge wear",
   "photos": [
    "img/117-1.jpg",

@@ -76,7 +76,7 @@ footer{color:var(--mut);font-size:12px;text-align:center;padding:22px}
 <div class="count" id="count"></div>
 <div class="grid" id="grid"></div>
 </div>
-<footer>Prices are starting points &middot; all OBO (or best offer). Message to buy &mdash; mention the item #.</footer>
+<footer>Message to buy &mdash; mention the item #.</footer>
 <div class="lb" id="lb"><span class="x" onclick="closeLb()">&times;</span><img id="lbimg" src=""/><div class="nav"><span onclick="lbStep(-1)">&#8249;</span><span onclick="lbStep(1)">&#8250;</span></div></div>
 <script>
 const PRODUCTS = __DATA__;
