@@ -20,7 +20,7 @@
   "line": "30th Anniversary \u00b7 Episode III (Mace Windu, Yoda, Anakin, AT-RT Driver)",
   "year": "2006",
   "cat": "Figures",
-  "price": 20,
+  "price": 30,
   "offer": true,
   "cond": "Sealed tin \u00b7 outer box shows shelf wear",
   "photos": [
@@ -343,7 +343,7 @@
   "year": "1997",
   "cat": "Figures",
   "ep": "IV",
-  "price": 22,
+  "price": 30,
   "offer": true,
   "cond": "Boxed \u00b7 box wear/creasing, figure sealed",
   "photos": [
@@ -386,7 +386,7 @@
   "year": "2007",
   "cat": "Figures",
   "ep": "IV",
-  "price": 30,
+  "price": 35,
   "offer": true,
   "cond": "Boxed tin \u00b7 box wear, figures sealed in tin",
   "photos": [
@@ -401,7 +401,7 @@
   "year": "2005",
   "cat": "Figures",
   "ep": "III",
-  "price": 38,
+  "price": 45,
   "offer": true,
   "cond": "Carded (MOSC) \u00b7 light shelf wear",
   "photos": [
@@ -745,7 +745,7 @@
   "line": "Unleashed",
   "year": "2005",
   "cat": "Figures",
-  "price": 25,
+  "price": 38,
   "offer": true,
   "cond": "Carded (MOC) \u00b7 card edge & corner wear",
   "photos": [
@@ -837,23 +837,10 @@
   "cat": "Oddities",
   "price": 20,
   "offer": true,
-  "cond": "Carded watch \u00b7 clamshell wear, price sticker",
+  "cond": "Carded watch \u00b7 front & back shown, clamshell wear, old price sticker",
   "photos": [
-   "img/056-1.jpg"
-  ],
-  "ep": "Saga"
- },
- {
-  "id": "057",
-  "name": "Star Wars Collector Timepiece \u2014 Wrist Watch",
-  "line": "Collector Timepiece",
-  "year": "2005",
-  "cat": "Oddities",
-  "price": 18,
-  "offer": true,
-  "cond": "Carded watch \u00b7 clamshell wear, old price sticker",
-  "photos": [
-   "img/057-1.jpg"
+   "img/056-1.jpg",
+   "img/056-2.jpg"
   ],
   "ep": "Saga"
  },
