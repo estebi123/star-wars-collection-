@@ -3,6 +3,19 @@ prods=json.load(open('products.json'))
 DATA=json.dumps(prods,separators=(',',':'))
 CONTACT={"telegram":"estebi1234","email":""}
 CJSON=json.dumps(CONTACT)
+N=len(prods)
+SITE="https://estebi123.github.io/star-wars-collection-/"
+DESC="Colección Star Wars en venta · San Juan, Puerto Rico · %d piezas: figuras, vehículos, sets coleccionables y más."%N
+META=('<meta name="description" content="'+DESC+'"/>\n'
+ '<meta property="og:title" content="Cantina Collectibles — Colección Star Wars"/>\n'
+ '<meta property="og:description" content="'+DESC+'"/>\n'
+ '<meta property="og:type" content="website"/>\n'
+ '<meta property="og:url" content="'+SITE+'"/>\n'
+ '<meta property="og:image" content="'+SITE+'img/001-1.jpg"/>\n'
+ '<meta name="twitter:card" content="summary_large_image"/>\n'
+ '<meta name="twitter:title" content="Cantina Collectibles — Colección Star Wars"/>\n'
+ '<meta name="twitter:description" content="'+DESC+'"/>\n'
+ '<meta name="twitter:image" content="'+SITE+'img/001-1.jpg"/>\n')
 
 COND_ES={
 "Appears sealed · light shelf wear":"Aparenta sellado · leve desgaste de estante",
@@ -153,7 +166,7 @@ applyLang();
 
 H=[]
 H.append('<!DOCTYPE html>\n<html lang="es">\n<head>\n<meta charset="utf-8"/>\n<meta name="viewport" content="width=device-width, initial-scale=1"/>\n')
-H.append('<title>Cantina Collectibles · San Juan, PR</title>\n<style>'+STYLE+'</style>\n</head>\n<body>\n')
+H.append('<title>Cantina Collectibles · San Juan, PR</title>\n'+META+'<style>'+STYLE+'</style>\n</head>\n<body>\n')
 H.append('<header>\n<div class="langsw"><span class="lc" id="lang-es" onclick="setLang(\'es\')">ES</span><span class="lc" id="lang-en" onclick="setLang(\'en\')">EN</span></div>\n')
 H.append('<h1>Cantina Collectibles</h1>\n<div class="sub" id="subt"></div>\n</header>\n')
 H.append('<div class="wrap">\n<div class="controls">\n<input id="q" type="search"/>\n')

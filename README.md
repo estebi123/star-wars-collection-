@@ -1,37 +1,41 @@
 # Cantina Collectibles — catálogo Star Wars
 
+Catálogo web de mi colección de Star Wars en venta. **Venta local en San Juan, Puerto Rico.**
+
+🌐 **Sitio en vivo:** https://estebi123.github.io/star-wars-collection-/
+
+El sitio tiene buscador, filtros por tipo y episodio, galería de fotos, y un
+selector de idioma **Español / Inglés** (por defecto en Español).
+
 ## Qué hay en esta carpeta
-- `index.html`  → el sitio (liviano, ~20 KB). Las fotos NO van adentro; las llama de `img/`.
-- `img/`        → todas las fotos (una o varias por pieza, ej. `001-1.jpg`, `001-2.jpg`).
+- `index.html` → el sitio (liviano; las fotos NO van adentro, las llama de `img/`).
+- `img/` → todas las fotos (una o varias por pieza, ej. `001-1.jpg`, `001-2.jpg`).
 - `products.json` → los datos del catálogo (nombre, línea, año, tipo, episodio, precio, condición, fotos).
 - `build_site.py` → regenera `index.html` a partir de `products.json`.
+- `CLAUDE.md` → notas del proyecto para Claude/Cowork.
+- `.github/workflows/build.yml` → regenera el sitio automáticamente al subir cambios.
 
-## Para ver el sitio
-Abre `index.html` con doble clic. Tiene que estar en la misma carpeta que `img/`.
+## Cómo cambiar un precio
+1. Abre `products.json` y busca la pieza por su `id` (ej. `"id":"043"`).
+2. Cambia el número en `"price"`.
+3. Haz **commit** del `products.json`. La GitHub Action regenera el `index.html` sola
+   (espera 1–2 min y refresca el sitio).
+   - Si prefieres hacerlo manual: corre `python build_site.py` y sube el `index.html`.
 
-## Para subirlo a GitHub Pages
-1. En tu repo: **Add file → Upload files**.
-2. Arrastra el `index.html` Y la carpeta `img/` completa (GitHub conserva la estructura).
-3. **Commit changes**. Espera 1–2 min y refresca fuerte.
+## Cómo añadir una pieza nueva
+1. Saca fotos sobre fondo blanco (frente + dorso + detalles). Pásalas a la PC.
+2. Optimízalas (~1100px) y guárdalas en `img/` con el próximo id (`117-1.jpg`, ...).
+3. Añade un objeto a `products.json` con el mismo formato que los demás.
+4. Sube `products.json` y las fotos nuevas a GitHub (el `index.html` se regenera solo).
 
-## Para añadir figuras nuevas
-1. Saca fotos sobre fondo blanco (sábana). Frente + dorso + detalles de daño.
-2. Mételas en una carpeta y pásalas a la PC.
-3. Por cada pieza nueva: añade un objeto a `products.json` con el próximo id (038, 039, ...)
-   y guarda sus fotos en `img/` como `038-1.jpg`, `038-2.jpg`, etc.
-4. Corre `python build_site.py` para regenerar `index.html`.
-5. Sube a GitHub.
+> 💡 Tip: abre esta carpeta en **Claude Cowork** y pídele que añada las piezas nuevas;
+> lee este README y el `CLAUDE.md` y sigue las convenciones automáticamente.
 
-### Formato de cada pieza en products.json
-{"id":"038","name":"...","line":"...","year":"2005","cat":"Figures",
- "ep":"III","price":20,"offer":true,"cond":"...","photos":["img/038-1.jpg","img/038-2.jpg"]}
-- cat: Figures / Vehicles / Games / Oddities / Print
-- ep:  I / II / III / IV / V / VI / Saga
-- price: número (o null = "Make offer")
-
-## Usarlo con Claude Cowork (recomendado para las 50+ que faltan)
-Abre esta carpeta en Cowork y pídele algo como:
-"Aquí está mi carpeta de fotos nuevas en [ruta]. Para cada pieza: identifícala,
-busca precio de venta, recorta/optimiza la foto, guárdala en img/ con el próximo id,
-añade la entrada a products.json y corre build_site.py."
-Cowork puede leer la carpeta de fotos y editar estos archivos directamente.
+## Formato de cada pieza en products.json
+```json
+{"id":"117","name":"...","line":"...","year":"2005","cat":"Figures",
+ "ep":"III","price":16,"offer":false,"cond":"...","photos":["img/117-1.jpg","img/117-2.jpg"]}
+```
+- `cat`: Figures / Vehicles / Games / Oddities / Print
+- `ep`:  I / II / III / IV / V / VI / Saga
+- `price`: número (o `null` = "Make offer")
